@@ -128,6 +128,7 @@ Diese Antworten sind nur exemplarisch und sind vermutlich nicht vollständig.
     * Kreuz: **Ätiologisches** Bezugssystem (Ätiologie: Lehre von den Krankheitsursachen; Gesamtheit der ursächlichen Faktoren, die zu einer bestehenden Krankheit geführt haben)
     * Stern: **Organsystem**-Bezug
     * Hilfreich da man ggf. den Fall in höhere Komplexitätsstufe einstufen kann --> mehr GELD :dollar: :dollar:
+    * Durch Querverweise wird die terminologische Kontrolle unterstützt und das Problem der Synonyme und Homonyme gelöst.
 * ICD-10-Alpha-ID
     * **Nicht** klassifizierend, da inhaltlich identische Diagnosen beliebig viele Alpha-ID-Codes haben können 
     * Unbegrenzte Zahl an Synonymen mit eigener ID-Nummer und Referenz auf den ICD-10; deshalb flexibel erweiterbar, ohne die ICD-10-Struktur zu ändern 
@@ -239,7 +240,7 @@ Diese Antworten sind nur exemplarisch und sind vermutlich nicht vollständig.
 ### Nachrichtenweiterleitung
 * Welcher Empfänger? Ggf. Vervielfältigung.
 * Über welchen Weg? 
-### Nachrichtenweiterleitung
+### Nachrichtenübermittlung
 * Puffer bis Empfängersystem bereit ist
 * Protokollierung des Versands
 ### Fehlerbehandlung
