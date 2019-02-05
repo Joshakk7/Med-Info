@@ -1,4 +1,3 @@
-https://md.kif.rocks/FragenkatalogGrundlagen
 # Fragenkatalog Grundlagen der Medizininformatik
 
 > - Mitschrieb: Jules, Lara, Harun <3 
