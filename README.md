@@ -2,7 +2,8 @@
 Dokumentensammlung und nützliche Links nach Vorlesungen sortiert
 
 Enthält:
-- Altklausuren
+- Alt- / Probeklausuren
+- Klausurtypische Aufgaben
 - Fragenkataloge (u.a mit Lösungen)
 - Zusammenfassungen
 - Mitschriebe und Lernzettel
