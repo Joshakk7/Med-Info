@@ -4,6 +4,7 @@ bei Prof. Grust
 - Probeklausur von Grust WS12/13
 - Klausuraufgaben (Sammlung aus veschiedenen Klausuren, 5 Stück)
 - Typische Klausuraufgaben (von Prof. Grust)
+- Spickzettel für die Klausur
 
 ## Info1 Hausübungsblätter
 Hier findet ihr den Code der Hausübungen der Info1 Vorlesung WS18/19 bei Prof.Grust.
